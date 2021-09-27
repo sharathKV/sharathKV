@@ -1,7 +1,7 @@
 ### Hi there 👋, here is what I'm working on!
 
 
-- 🔭 I’m currently working on [CmyPlot]:https://github.com/bradley-erickson/CmyPlot
+- 🔭 I’m currently working on [CmyPlot](https://github.com/bradley-erickson/CmyPlot)
 - 🌱 I’m currently learning Network automations and software engineering
 - 👯 I’m looking to collaborate on any open source python projects 
 - 💬 Ask me about Switching and routing
