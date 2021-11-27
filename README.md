@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [CmyPlot](https://github.com/bradley-erickson/CmyPlot)
-- 🌱 I’m currently learning Network automations and software engineering
+- 🌱 I’m currently learning Network automations and software engineering practices
 - 👯 I’m looking to collaborate on any open source python projects 
 - 💬 Ask me about Switching and routing
 - 📫 How to reach me: sharu.bhavimane@gmail.com
