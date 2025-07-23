@@ -1,12 +1,11 @@
-### Hi there 👋, here is what I'm working on!
+### Hi there 👋
 
 
-- 🔭 I’m currently working as Software Development Engineer at Amazon Smart Vehicles
-- 🌱 I’m currently learning React Native and C++
-- 👯 I’m currently working on developing features for in-vehicle-infotainment system 
-- 💬 Ask me about JavaScript, ReactJS
-- 📫 How to reach me: sharu.bhavimane@gmail.com
-- 😄 Pronouns: He/Him/His
+- 💻 Skilled in **Python, C++, React Native**, and **TypeScript**
+- 🌐 Experienced with **network protocols** (BGP, OSPF, VxLAN, EVPN)
+- ☁️ Built scalable backends with **AWS CDK, Lambda, SQS, DynamoDB**
+- 🧑‍🔬 Contributed to open-source (CmyPlot, Expertiza) and published engineering excellence improvements at Amazon
+- 🎓 MS in Computer Networking, **North Carolina State University**
 - ⚡ <s>Fun</s> fact: At any given moment, you would be doing the thing you most want to be doing🤨
 
 <br>
@@ -24,6 +23,4 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/SharathKumarKV
-[instagram]: https://www.instagram.com/sharathkumar_kv
 [linkedin]: https://www.linkedin.com/in/sharath-kumar-v
