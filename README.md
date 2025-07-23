@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, a little bit about me
 
 
 - 💻 Skilled in **Python, C++, React Native**, and **TypeScript**
