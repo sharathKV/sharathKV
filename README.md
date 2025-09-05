@@ -1,7 +1,7 @@
 ### Hi there 👋, a little bit about me
 
 
-- 💻 Skilled in **Python, C++, React Native**, and **TypeScript**
+- 💻 Skilled in **Python, JavaScript, NodeJS, ReactJS**, and **TypeScript**
 - 🌐 Experienced with **network protocols** (BGP, OSPF, VxLAN, EVPN)
 - ☁️ Built scalable backends with **AWS CDK, Lambda, SQS, DynamoDB**
 - 🧑‍🔬 Contributed to open-source (CmyPlot, Expertiza) and published engineering excellence improvements at Amazon
