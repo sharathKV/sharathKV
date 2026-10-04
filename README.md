@@ -8,13 +8,17 @@
 - 🎓 MS in Computer Networking, **North Carolina State University**
 - ⚡ <s>Fun</s> fact: At any given moment, you would be doing the thing you most want to be doing🤨
 
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathKV&count_private=true&show_icons=true&theme=dark&border_color=white&line_height=26px" />
+### 📊 GitHub stats
+
+<p align="center">
+  <img alt="GitHub metrics" src="github-metrics.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=sharathKV&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=sharathKV&count_private=true&show_icons=true&theme=dark&include_all_commits=true&border_color=white&line_height=26px" />
-  </a>
+</p>
 
 
 ### Connect with me:
