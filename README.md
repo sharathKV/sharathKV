@@ -31,7 +31,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| **Patterns** *(private, in progress)* | Explore and generate mathematical art (Mandelbrot/Julia sets, strange attractors, L-systems), tune parameters and palettes, then preview it on direct-to-garment printed apparel. A Rust render worker sits behind a job queue. | Next.js · TypeScript · Rust · BullMQ · Redis · MinIO |
+| **Patterns** *(private, in progress)* | Explore and generate mathematical art, tune parameters and palettes, then preview it on direct-to-garment printed apparel. A Rust render worker sits behind a job queue. | Next.js · TypeScript · Rust · BullMQ · Redis · MinIO |
 | [**Assembly-Endgame**](https://github.com/sharathKV/Assembly-Endgame) | Hangman-style word game in React | React · JavaScript · CSS |
 | [**Tenzies**](https://github.com/sharathKV/Tenzies) | Dice game showing `useState`, `useEffect` and `useRef` patterns | React · JavaScript · CSS |
 | [**TCP-Analysis**](https://github.com/sharathKV/TCP-Analysis) | Throughput and flow-completion-time comparison of TCP Cubic vs DCTCP on a dumbbell topology | C++ · ns-3 |
