@@ -14,7 +14,7 @@
 
 ### 🧭 About me
 
-- 💼 **Senior Full Stack Engineer / Associate Manager** at a data & AI company, building products end to end and leading engineers
+- 💼 **Senior Full Stack Engineer / Associate Manager** at **Tredence Analytics**, building products end to end and leading engineers
 - 🤖 Built a **GenAI Text-to-SQL analytics assistant** for a large retail client's supply chain team: plain-English questions in, SQL, tables, charts and a live view of the agents' reasoning out ([details below](#-featured-work-genai-text-to-sql-analytics-assistant))
 - 🚗 At **Amazon** (Smart Vehicles), shipped React Native component libraries for in-car launchers, a C++ message router to cut bridge overhead, and Perfetto-driven Time-To-First-Frame work
 - ☁️ At **Amazon** (Halo), built a self-service Node.js API on **AWS CDK, Lambda, SQS, DynamoDB** that cut partner config updates from 1 day to 15 minutes
@@ -72,8 +72,8 @@ flowchart LR
 
 | Role | Where | When |
 |---|---|---|
-| Senior Full Stack Engineer / Associate Manager | Data & AI company · Bengaluru | Present |
-| Software Development Engineer | Amazon, Smart Vehicles · Sunnyvale, CA | 2023 – 2024 |
+| Senior Full Stack Engineer / Associate Manager | Tredence Analytics · Bengaluru | Present |
+| Software Development Engineer | Amazon, Smart Vehicles · Sunnyvale, CA | 2023 – 2025 |
 | SDE Intern | Amazon, Halo · Bellevue, WA | 2022 |
 | Software Engineer Intern | Cisco Systems · Raleigh, NC | 2022 |
 | Automation Engineer | Ericsson · Bengaluru | 2015 – 2020 |
